@@ -21,7 +21,7 @@ The system includes:
 ```
 ├── pipeline.ipynb              # Main implementation
 ├── Report.pdf                 # Final report
-├── original_segment.wav       # Input audio
+├── original_segment.wav       # Input audio           -> Not able to push in github due to file size limitation
 ├── clean_audio.wav            # Preprocessed audio
 ├── student_voice_ref.wav      # 60 sec voice sample
 ├── final_output.txt           # Translated Tamil text
