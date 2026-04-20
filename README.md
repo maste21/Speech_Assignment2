@@ -1,4 +1,4 @@
-# Speech Understanding Assignment - 2
+# Speech Assignment - 2
 
 ## Overview
 
